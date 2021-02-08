@@ -1,0 +1,12 @@
+u1 u2
+u1 e3
+u2 e7
+u2 r1
+u3 u4
+u3 e3
+u4 e10
+e2 e10
+e2 r3
+e3 e6
+e3 r2
+e6 r4
